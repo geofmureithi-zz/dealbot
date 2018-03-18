@@ -50,7 +50,7 @@ Then use the provided HTTPS URL to config your webhook on Facebook's Dashboard. 
 
 ## Credits
 
-Made with :beer: by Geof Mureithi - [@mureithix](https://twitter.com/mureithix)
+Made with :beer: by [Geoffrey Mureithi](https://mureithi.me)
 
 ## License
 
